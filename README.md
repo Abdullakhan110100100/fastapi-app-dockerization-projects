@@ -1,4 +1,5 @@
 Dockerized the fastapi app. Below are the changes and the desicions and considerations made while dockerizing this app.
+Recording of an example usage is uploaded on this drive link : https://drive.google.com/file/d/1L4gtxEYFXRVQssXk--3SNYk7Twf8veUz/view?usp=drive_link
 
 # Setup instructions:
 Install and run the docker desktop.
